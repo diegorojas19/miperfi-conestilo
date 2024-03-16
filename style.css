@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.titulo {
+    background-color: rgba(145, 255, 0, 0.3);
+    border:1px solid black;
+    border-radius: 5px;
+    width: 700px;
+    text-align: center;
+}
+.informacion {
+    width: 400px;
+}
+.webinstitucional {
+    text-align: center;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border:1px dotted rgba(145, 255, 0);
+}
